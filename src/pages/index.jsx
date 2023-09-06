@@ -1,9 +1,9 @@
 import Layout from "@/components/Layout";
-import Hero from "@/components/Section/Hero";
-import Logos from "@/components/Section/Logos";
-import Products from "@/components/Section/Products";
-import CTA from "@/components/Section/CTA";
-import Email from "@/components/Section/Email";
+import Hero from "@/Section/Home/Hero";
+import Logos from "@/Section/Home/Logos";
+import Products from "@/Section/Home/Products";
+import CTA from "@/Section/Home/CTA";
+import Email from "@/Section/Home/Email";
 
 export default function Home() {
   return (
